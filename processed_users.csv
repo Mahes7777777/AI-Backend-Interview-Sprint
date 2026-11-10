@@ -1,0 +1,4 @@
+user_id,full_name,annual_salary_usd,processed_timestamp,status
+101,Maheswar Rao,75000.0,2026-11-09T22:18:10.951833,ACTIVE
+102,Alex Smith,92000.0,2026-11-09T22:18:10.951833,ACTIVE
+104,Sarah Connor,115000.0,2026-11-09T22:18:10.951833,INACTIVE
